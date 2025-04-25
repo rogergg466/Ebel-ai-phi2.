@@ -1,0 +1,4 @@
+transformers
+llama-cpp-python
+requests
+python-telegram-bot
